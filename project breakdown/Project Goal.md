@@ -2,7 +2,9 @@
 
 ## public cible
 
-tout le monde
+- employé dans une organisation
+- participant dans un projet
+- 
 
 ## But
 
